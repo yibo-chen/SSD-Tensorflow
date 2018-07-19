@@ -4,6 +4,7 @@ datasets/__pycache__/
 deployment/__pycache__/
 nets/__pycache__/
 preprocessing/__pycache__/
+tfrecords/
 
 .ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/
@@ -22,3 +23,4 @@ nohup.out
 ssd-tensorflow.sublime-workspace
 ssd-tensorflow.sublime-project
 
+*.pyc
