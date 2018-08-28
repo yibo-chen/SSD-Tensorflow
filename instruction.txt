@@ -1,0 +1,5 @@
+prepare TFrecord:
+
+python tf_convert_data_drone.py --dataset_name=drone_detection --dataset_dir=/home/yibo/Documents/research/Drone_Detection/Yibo_work/Experiments/data/Perch_Data/Hover_Target_0/ --output_name=drone_detection_train --output_dir=./tfrecords/
+
+do training:
